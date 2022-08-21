@@ -3,4 +3,4 @@ NinjaFood
 
 <br>
 
-https://sanathan-git.github.io/NinjaFood/
+https://sanathan-git.github.io/NinjaFood/master
